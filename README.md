@@ -1,5 +1,13 @@
 # starbankproject
 
+![Image](https://github.com/user-attachments/assets/6023d5cf-bfc2-4221-880d-8ad42b9a23d9)
+
+
+
+
+
+
+
 A new Flutter project.
 
 ## Getting Started
