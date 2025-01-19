@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533890652362",
+    "project_id": "starbankprojesi",
+    "storage_bucket": "starbankprojesi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533890652362:android:cd205aaeae384f7971fc33",
+        "android_client_info": {
+          "package_name": "com.example.starbankproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC126cHXAdyr_SOmQj493eFWqnYCBr__Is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
