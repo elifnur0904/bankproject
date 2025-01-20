@@ -46,9 +46,10 @@ Kart hesap işlemleri temiz bir şekilde görebileceğiniz ekranımız sizlerle.
 
 Eğer hesabınıza sanal para yatırmak isterseniz ise bu ekran sizleri karşılamaktadır. Elimden geldğince şeffaf bir proje yapmaya çalıştım.
 
+[
+](https://www.youtube.com/watch?v=JodlFMazGsA)
 
-A new Flutter project.
-
+VİDEOM LİNKTEDİR
 ## Getting Started
 
 This project is a starting point for a Flutter application.
