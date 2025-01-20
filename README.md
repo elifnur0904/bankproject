@@ -49,10 +49,7 @@ Eğer hesabınıza sanal para yatırmak isterseniz ise bu ekran sizleri karşıl
 
 
 VİDEOM LİNKTEDİR
-[
-](https://www.youtube.com/watch?v=JodlFMazGsA)
-## Getting Started
-
+[![starbankproject](https://img.youtube.com/vi/JodlFMazGsA&t=176s/0.jpg)](https://www.youtube.com/watch?v=JodlFMazGsA&t=176s) 
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
